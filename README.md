@@ -1,5 +1,8 @@
-HEAD
 # Trading Algorithm Project
 
-# trading-algo-project
-18110e389ec6a7b6c79b06ee6711188ea23367a5
+This project is a Python-based trading algorithm platform designed to help:
+- Learn economics and trading
+- Learn to code in Python
+- Make money trading
+- Possibly sell the algo
+- Become a better consultant for trading AI
