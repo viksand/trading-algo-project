@@ -1,5 +1,0 @@
-# Add your Python dependencies here
-pandas
-numpy
-matplotlib
-yfinance
